@@ -1,0 +1,10 @@
+The proxies listed in the file "proxy" are activated as soon as you connect to any 
+network specified in the file "blacklist".
+
+Steps to install:
+1.  sudo chmod +x proxy_setup.sh
+2.  sudo chmod +x which_nw.sh
+3.  Add ". path/to/proxy_setup.sh" to your .bashrc (without the quotes ofcourse)
+
+Steps to uninstall
+1.  Remove the line added during step 3 in Install
