@@ -1,5 +1,4 @@
-The proxies listed in the file "proxy" are activated as soon as you connect to any 
-network specified in the file "blacklist".
+The proxies listed in the file "proxy" are activated as soon as you connect to any network specified in the file "blacklist".
 
 Steps to install:
 1.  sudo chmod +x proxy_setup.sh
