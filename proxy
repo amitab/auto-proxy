@@ -1,0 +1,3 @@
+# Add the proxy here
+HTTP_PROXY=''
+HTTPS_PROXY=''
